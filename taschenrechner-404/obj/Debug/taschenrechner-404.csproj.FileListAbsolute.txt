@@ -1,0 +1,9 @@
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\bin\Debug\taschenrechner_404.exe.config
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\bin\Debug\taschenrechner_404.exe
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\bin\Debug\taschenrechner_404.pdb
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\obj\Debug\taschenrechner-404.csprojAssemblyReference.cache
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\obj\Debug\taschenrechner_404.Properties.Resources.resources
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\obj\Debug\taschenrechner-404.csproj.GenerateResource.cache
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\obj\Debug\taschenrechner_404.exe
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\obj\Debug\taschenrechner_404.pdb
+C:\Users\Administrator\RiderProjects\taschenrechner-404\taschenrechner-404\obj\Debug\taschenrechner_404.Form1.resources
